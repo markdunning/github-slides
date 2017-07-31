@@ -336,5 +336,28 @@ https://www.webpagefx.com/tools/emoji-cheat-sheet
 
 Work in pairs to edit a file in your partner's GitHub repository using a pull request. (And vice versa.)
 
+---
+
+# GitHub Desktop Essentials
+
 ----
+
+# Desktop Essentials
+
+- Need files on your local computer (or compute cluster)
+  + Edit using local tools
+  + Run software on your machine
+  + Synchronise among several computers via GitHub
+- GitHub Desktop provides GUI
+- Git provides command line (no GUI on Linux)
+
+----
+
+# GitHub, your repo, your working files
+
+![](images/git-workflow.png)
+
+----
+----
+
 
