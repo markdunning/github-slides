@@ -5,8 +5,6 @@
 - 1) What do you do as version control at the moment?
 - 2) What would you like to learn about Git and Github?
 
-### https://datachampcam.github.io/friendly-github-intro/
-
 ----
 
 ![](images/phd101212s.gif)
@@ -15,6 +13,8 @@
 http://www.phdcomics.com
 
 ----
+
+# Thanks to Mozilla Science
 
 ![](images/mozilla-science.png)
 
@@ -92,7 +92,7 @@ Management of *changes*, called *revisions* to any types of information
 - Advanced tools
    + subversion and git
    
- ----
+----
  
  # Management of changes
  
@@ -147,7 +147,7 @@ Management of *changes*, called *revisions* to any types of information
 
 ----
 
-# Exercise: My first Rep
+# Exercise: My first Repo
 
 ![](images/create-a-repo.png)
 
@@ -219,3 +219,32 @@ Management of *changes*, called *revisions* to any types of information
   - Pull Request
   - Merge
   
+----
+
+# Git / GitHub Terms (3)
+
+- Fork
+  + make a copy of someone else's repository
+  
+![](images/fork-a-repo.gif)
+
+----
+
+# Git / GitHub Terms (3)
+
+- Pull request
+  + request to add your changes into a *forked* repository
+- Clone
+  + copy a repository onto your local computer
+- Download zip
+  + download the content of a repository
+  
+----
+
+![](images/screen-annotated.png)
+
+----
+
+# Glossary & Questions
+
+Don’t worry if you haven’t gotten all the terms yet - we’ll give you time to play more and clarify any questions. 
