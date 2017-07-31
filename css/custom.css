@@ -1,7 +1,4 @@
-body {
-    background-color:#20bfadff;
-        color: white;
-}
+
 
 img {
     border: 0 !important;
@@ -54,13 +51,9 @@ img {
 
 .reveal .slides {
     font-size: 1.0em;
-    background-color:#20bfadff;
-    color: white;
+
 }
 
-.reveal section .data-background {
-  data-background: #20bfadff;
-}
 
 .footnote {
     position: absolute;
