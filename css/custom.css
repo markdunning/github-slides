@@ -1,4 +1,4 @@
-img{
+img {
     border: 0 !important;
     box-shadow: none !important;
     background: none !important;
@@ -62,5 +62,4 @@ img{
     font-size: 0.7em;
 }
 
-.reveal h1 { font-size: 1.5em; } 
-
+.reveal h1 { font-size: 1.5em; }
