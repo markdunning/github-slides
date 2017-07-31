@@ -248,3 +248,92 @@ Management of *changes*, called *revisions* to any types of information
 # Glossary & Questions
 
 Don’t worry if you haven’t gotten all the terms yet - we’ll give you time to play more and clarify any questions. 
+
+--- 
+
+# Collaborating with GitHub
+
+----
+
+# Workflow #1 - Add Collaborators
+
+- As the owner of a repo you:
+  + add people as collaborators 
+  + each collaborator can read/write files in the repo 
+  + each collaborator is adding files and other content; making branches and either directly merging changes in or via pull requests
+
+----
+
+![](images/add-collab1.png)
+
+----
+
+![](images/add-collab2.png)
+
+----
+
+![](images/add-collab3.png)
+
+----
+
+# Why and When would I add collaborators?
+
+- You’re building a website and you have a team of trusted teammates.
+- You’re writing a paper and multiple people will be writing and editing.
+- You’re developing a new course and multiple people are developing content.
+- You are doing an analysis and need your collaborator to do a code review.
+- etc...
+
+----
+
+# *You add collaborators when they are a core part of your team! *
+
+----
+
+# Workflow #2 - Fork + Pull Request
+
+- If you don’t own a repo and aren’t an official collaborator:
+  + you will fork a repo - mmm yummy
+  + work on your forked copy of the repo 
+  + in order to get your changes pulled into the original repo ; make a pull request for the changes you’ve made
+  + the author/owner of the original repo will determine if your changes are cool; and merge them in.
+  + Make friends = Big party! 
+
+----
+
+![](collab1.png)
+
+----
+
+![](collab2.png)
+
+----
+
+![](collab3.png)
+
+----
+
+# GitHub and Markdown
+
+----
+
+Markdown is a simple text “markup” language made for quickly writing formatted text - great for blogging, documentation, and even writing papers. If you can make an emoji, you can write markdown! 
+
+![](images/markdown-mou.gif)
+
+----
+
+Markdown is important because GitHub automatically renders anything written in Markdown. This can be specific files (eg: README), or your comments on pull requests and issues.
+
+Some useful resources:
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://www.webpagefx.com/tools/emoji-cheat-sheet 
+
+----
+
+# Exercise: My First Pull Request
+
+Work in pairs to edit a file in your partner's GitHub repository using a pull request. (And vice versa.)
+
+----
+----
