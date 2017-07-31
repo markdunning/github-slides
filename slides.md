@@ -2,8 +2,8 @@
 
 ## Post-It / Ice-Breaker
 
-1) What do you do as version control at the moment?
-2) What would you like to learn about Git and Github?
+- 1) What do you do as version control at the moment?
+- 2) What would you like to learn about Git and Github?
 
 ### https://datachampcam.github.io/friendly-github-intro/
 
@@ -66,4 +66,30 @@ With you today...
 - 15:45 Presentation: More things you can do with github
 - 16:00 Free time and questions
 
+-----
 
+# Github: What, why & Welcome
+
+---
+
+# Learning Objectives
+
+- Explain what is version control
+- Recall why version control is crucial for researchers and *not just for programmers*
+- Tell the differences between Git and Github
+- Create your first GitHub project
+
+---
+
+# Version Control
+
+Management of *changes*, called *revisions* to any types of information
+
+- Simple file versioning
+  + add v1.0, v1.1,...to file names
+- Simple tools
+  + Google Drive, Dropbox
+- Advanced tools
+   + subversion and git
+   
+ 
