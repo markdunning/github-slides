@@ -302,15 +302,15 @@ Management of *changes*, called *revisions* to any types of information
 
 ----
 
-![](collab1.png)
+![](images/collab1.png)
 
 ----
 
-![](collab2.png)
+![](images/collab2.png)
 
 ----
 
-![](collab3.png)
+![](images/collab3.png)
 
 ----
 
