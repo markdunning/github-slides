@@ -247,9 +247,10 @@ Management of *changes*, called *revisions* to any types of information
 
 # Glossary & Questions
 
-Don’t worry if you haven’t gotten all the terms yet - we’ll give you time to play more and clarify any questions. 
+- Don’t worry if you haven’t gotten all the terms yet
+  + we’ll give you time to play more and clarify any questions. 
 
---- 
+---
 
 # Collaborating with GitHub
 
@@ -336,4 +337,4 @@ https://www.webpagefx.com/tools/emoji-cheat-sheet
 Work in pairs to edit a file in your partner's GitHub repository using a pull request. (And vice versa.)
 
 ----
-----
+
