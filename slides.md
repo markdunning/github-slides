@@ -527,9 +527,134 @@ Work in pairs to edit a file in your partner's GitHub repository using a pull re
 
 ![](images/exercise-working-locally.png)
 
+---
+
+# Moar things you can do with GitHub
+
 ----
 
+# Lead your own open source project
+
+These special files are really useful for new contributors:
+
+- README
+- CONTRIBUTING
+- CODE OF CONDUCT
+- LICENSE
 
 ----
 
+# README
+
+![](images/welcome.jpg)
+
 ----
+
+# The almighty README
+
+![](images/readme-raw.gif)
+
+It is a file (*.md*) with text in it that describes
+
+- what you're doing, for who, and why
+- what makes your project special and exciting
+- how to get started
+- where to find key resources
+
+-----
+
+# CONTRIBUTING
+
+in your root directory, all caps, in markdown
+
+![](images/contributing.png)
+
+- location
+- cheer
+- how-to
+- style
+- Link appears when you contribute to a project
+
+----
+
+# CODE OF CONDUCT
+
+code of conduct (n).
+> a set of rules outlining the social norms and rules and responsibilities of an individual project, party of organization
+
+----
+
+# Why is it needed?
+
+![](images/code-of-conduct1.png)
+
+----
+
+# Why is it needed?
+
+![](images/code-of-conduct2.png)
+
+----
+
+# Getting started
+
+- Describe core words; these could be values, ideals or characteristics of people you want to be associated to your community
+- Behaviours to encourage? Discourage?
+- Process of bringing issues to the table
+- Consequences of breaking the code
+- Understanding your role
+
+----
+
+# LICENSE
+
+in your root directory, all caps, in markdown
+
+- *sharing your project* online isn't everything
+- it's important to tell people *how they can use* that project
+- choosing an open source license can be confusing
+- Some folks created [ChooseALicense.com](http://ChooseALicense.com) to help you make that decision
+
+----
+
+# Don't want to license?
+
+- You're under no obligation to choose a license
+- It's your right not to include one with your code or project...
+- Generally speaking, the absence of a license means that the default copyright laws apply
+- This means that you retain all rights to your source code and that *nobody else may reproduce, distribute, or create derivative works from your work*. This might not be what you intend
+
+----
+
+# Host a website
+
+
+ GitHub is able to host a special website for you
+ 
+ - [https://datachampcam.github.io/friendly-github-intro/](https://datachampcam.github.io/friendly-github-intro/)
+ - https://[yourGitHubName].github.io/[YourRepo]
+ 
+ You're hosting the webpage through your fork!
+ 
+ ----
+ 
+ # Settings
+ 
+ ![](gh-pages.png)
+ 
+ - Click *settings* tab to setup the webpage
+ - The homepage will be your *README.md* file
+  + it gets rendered to HTML on the fly
+  + no need to write HTML code, only markdown!
+ 
+ ----
+ 
+ # Private Repositories
+ 
+ ![](discount.png)
+ 
+[https://education.github.com/](https://education.github.com/) to request unlimited private repositories for academic use
+ 
+ ----
+ 
+ 
