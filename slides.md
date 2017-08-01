@@ -358,6 +358,178 @@ Work in pairs to edit a file in your partner's GitHub repository using a pull re
 ![](images/git-workflow.png)
 
 ----
+
+# Install GitHub Desktop locally (Mac, Windows)
+
+![](images/github-desktop-install.png)
+
+----
+
+# Get Atom to edit your files locally
+
+![](images/atom.png)
+
+----
+
+# Changes Timeline
+
+![](images/github-desktop-home.png)
+
+----
+
+# Add, Create, Clone rep
+
+![](images/github-desktop-create-branch.png)
+
+----
+
+# Branches
+
+- When opening the repo folder on your computer, it opens it with the branch showed in GitHub Desktop
+
+![](images/github-desktop-choose-branch.png)
+
+----
+
+# Using the command line
+
+```
+> git clone repo
+
+> git status
+> git add changed_file
+> git commit -m "Commit message"
+> git push
+```
+
+----
+
+# Using the command line
+
+```
+> git checkout -b cmd-line-branch
+> git branch
+> git push origin cmd-line-branch
+
+> git checkout master
+> git branch
+> git merge cmd-line-branch
+> git push
+
+> git log
+> git revert commit_id
+> git push
+
+```
+
+----
+
+# Example workflow
+
+- Clone a repo from GitHub
+- Commit and publish a change
+- Create a branch
+- Merge changes to master branch
+- Revert a commit
+
+----
+
+# Clone repo
+
+![](images/github-desktop-clone.png)
+
+- Choose the repository you want to copy to your local computer
+- Click *Clone*
+- Choose a location on your local computer
+
+----
+
+# Commit and publish a change
+
+![](images/github-desktop-commit-sync)
+
+- Add your changes to your repo locally
+- Write a helpful message
+- Commit and Sync
+
+----
+
+# Commit and push
+
+![](images/git-commit-and-push.png)
+
+```
+> git status
+> git add README.md
+> git commit -m "Add README file"
+> git push
+
+```
+
+----
+
+# Commit and publish
+
+![](images/github-desktop-commit-publish.png)
+
+- Create a branch
+- Add your changes to your repo locally
+  + you are now working in your newly-created branch!
+- Commit and publish
+
+----
+
+```
+> git checkout -b cmd-line-branch
+> git branch
+> git push origin cmd-line-branch
+```
+
+----
+
+# Compare, Update and Sync
+
+![](images/github-desktop-compare.png)
+
+- Merge changes to master branch
+- Compare
+- Select the branch and Update and Sync
+
+----
+
+```
+> git checkout master
+> git branch
+> git merge cmd-line-branch
+> git push
+```
+
+----
+
+# Revert
+
+![](images/github-desktop-revert.png)
+
+- Go to history
+- Select the commit you wish to revert
+- Revert it!
+
+----
+
+```
+> git log
+> git revert a45fbb326d83acb42f6521c6fed2cb5c0e8a3018
+> git push
+```
+----
+
+# Exercise: Working Locally
+
+![](images/exercise-working-locally.png)
+
 ----
 
 
+----
+
+----
