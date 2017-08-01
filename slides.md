@@ -636,7 +636,7 @@ in your root directory, all caps, in markdown
  
  You're hosting the webpage through your fork!
  
- ----
+----
  
  # Settings
  
@@ -647,7 +647,7 @@ in your root directory, all caps, in markdown
   + it gets rendered to HTML on the fly
   + no need to write HTML code, only markdown!
  
- ----
+----
  
  # Private Repositories
  
@@ -655,6 +655,8 @@ in your root directory, all caps, in markdown
  
 [https://education.github.com/](https://education.github.com/) to request unlimited private repositories for academic use
  
+----
+ 
+ # Thank you!
+ 
  ----
- 
- 
