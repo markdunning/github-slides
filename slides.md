@@ -640,7 +640,7 @@ in your root directory, all caps, in markdown
  
  # Settings
  
- ![](gh-pages.png)
+ ![](images/gh-pages.png)
  
  - Click *settings* tab to setup the webpage
  - The homepage will be your *README.md* file
@@ -651,7 +651,7 @@ in your root directory, all caps, in markdown
  
  # Private Repositories
  
- ![](discount.png)
+ ![](images/discount.png)
  
 [https://education.github.com/](https://education.github.com/) to request unlimited private repositories for academic use
  
