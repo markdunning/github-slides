@@ -7,7 +7,7 @@
 
 ----
 
-![](images/phd101212s.gif)
+![](images/phd101212s-resize.gif)
 
 - "Piled Higher and Deeper" by Jorge Chan,
 http://www.phdcomics.com
