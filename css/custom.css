@@ -51,8 +51,8 @@ img {
 
 .reveal .slides {
     font-size: 1.0em;
-    background-color: red;
-
+    background-color: #20bfadff;
+    color: white;
 }
 
 
@@ -70,4 +70,5 @@ img {
 .reveal h1 { 
     font-size: 1.5em; 
     background-color: #20bfadff;
+    color: white;
 }
